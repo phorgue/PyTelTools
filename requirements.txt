@@ -1,14 +1,2 @@
 coloredlogs
-descartes
-matplotlib
-numpy
-pyproj
-PyQt5
-pyshp>=2.0
-pytest
-Rtree
-scipy
-shapely
 simple-settings
-tqdm
-unittest2
